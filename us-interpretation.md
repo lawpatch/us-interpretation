@@ -16,7 +16,7 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 - article or section references are to articles or sections of the document in which the reference is contained.
 - eferences to numbered articles or sections of this Agreement also refer to and include all subsections of the referenced article or section. 
 
-** Language **
+**Language**
 - this Agreement is intended to be interpreted in the English language. 
 - all versions of this Agreement in any other language shall be for accommodation only, and shall not be binding upon the parties to this Agreement. 
 - all communications, notices, and other documents to be made, given, or approved pursuant to this Agreement shall be in the English language.
