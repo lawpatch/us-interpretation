@@ -21,7 +21,7 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 - all versions of this Agreement in any other language shall be for accommodation only, and shall not be binding upon the parties to this Agreement. 
 - all communications, notices, and other documents to be made, given, or approved pursuant to this Agreement shall be in the English language.
 
- **Construction**
+**Construction**
 - the terms and conditions of this Agreement are the result of negotiations between the parties to this Agreement. 
 - the parties intend that this Agreement will not be construed in favor of or against any party by reason of the extent to which any party or its professional advisors participated in the preparation or drafting of this Agreement.
 
