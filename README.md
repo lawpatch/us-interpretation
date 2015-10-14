@@ -10,7 +10,7 @@ You can think of the interpretation provision of a legal agreement as a global c
 
 ### Not Legal Advice
 
-This is not legal advice. Lawyers are involved in producing these terms, but they obviously aren't familiar with your circumstances. Any individuals involved in drafting the language in this repository are not your lawyer, and do not intend to provide you with legal advice. Speak to your lawyer to make sure that Sensible Boilerplate is well aligned with your circumstances.
+This is not legal advice. Lawyers are involved in producing these terms, but they obviously aren't familiar with your circumstances. Any individuals involved in drafting the language in this repository are not your lawyer, and do not intend to provide you with legal advice. Speak to your lawyer to make sure that Sensible Interpretation is well aligned with your circumstances.
 
 ### Licence
 
