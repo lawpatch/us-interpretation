@@ -36,4 +36,4 @@ Unless the terms and conditions of the Agreement explicitly state otherwise, the
 Defined terms in this document will have the meanings described below.
 
 ### Agreement
-means the terms and conditions constituting the legally binding agreement that incorporates this document.
+means the terms and conditions constituting the agreement that incorporates this document.
